@@ -17,3 +17,5 @@ btn= Button(root,text="find meaning",command=find_meaning)
 btn.grid(row=1,column=2)
 
 root.mainloop()
+
+
